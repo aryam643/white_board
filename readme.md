@@ -1,7 +1,3 @@
-
----
-
-````markdown
 # 🖌️ Collaborative Whiteboard
 
 A real-time collaborative whiteboard built with **Node.js**, **Express**, **Socket.io**, **MongoDB**, and **React**.  
