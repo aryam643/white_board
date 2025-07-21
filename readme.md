@@ -14,10 +14,7 @@ This application allows multiple users to draw simultaneously on a shared canvas
 
 ## 📸 Demo
 
-> *(Include an actual GIF or image here if available)*
-
-![Collaborative Whiteboard Demo](./screenshots/demo.gif)
-
+https://drive.google.com/file/d/1bE0B6OLID62vj6j7E5fObxuvIBXIQxWE/view?usp=sharing
 ---
 
 ## ✨ Features
